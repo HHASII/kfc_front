@@ -1,0 +1,24 @@
+div,h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.ordertitle {
+    color:teal;
+    text-align: center;
+    font-family: '楷体';
+    display: inline;
+    font-size: 2em;
+    font-weight: 900;
+    margin-right: 400px;
+    margin-left: 300px;
+}
+
+div.content div > Button {
+    margin: 0 20px;
+    margin-top: 20px;
+}
+
+.tit {
+    text-align: center;
+}
